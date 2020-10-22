@@ -1,0 +1,27 @@
+{
+  "name": "aipin-nuxt-master",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/component-cache": "^1.1.6",
+    "@nuxtjs/proxy": "^2.0.1",
+    "ant-design-vue": "^1.6.5",
+    "cookie-universal-nuxt": "^2.1.4",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
+    "js-md5": "^0.7.3",
+    "nuxt": "^2.14.6",
+    "vue-i18n": "^8.22.1"
+  },
+  "devDependencies": {
+    "less": "^3.12.2",
+    "less-loader": "^7.0.2"
+  }
+}
