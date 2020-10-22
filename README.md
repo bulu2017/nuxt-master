@@ -1,4 +1,6 @@
-# aipin-nuxt-master
+# nuxt-master 
+
+> 一款基于Nuxt构建的前端框架
 
 ## Build Setup
 
@@ -17,10 +19,6 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-
-
-
 ### 项目部署：
 
 完成项目打包：将以下目录及文件上传到与服务器端
@@ -35,7 +33,6 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 >
 > static 目录
 >
-> server 目录
 
 
 
